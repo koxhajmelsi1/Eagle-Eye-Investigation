@@ -4,6 +4,7 @@ import logo from '../../assets/logo.jpg'
 import play2 from '../../assets/play2.png'
 
 
+
 const About = () => {
   return (
     <div className='about'>
