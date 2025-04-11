@@ -4,7 +4,7 @@ import gal1 from '../../assets/gal1.jpg'
 import gal2 from '../../assets/gal2.jpg'
 import gal5 from '../../assets/gal5.jpg'
 import gal6 from '../../assets/gal6.jpg'
-import arrows from '../../assets/arrows.png'
+import arrows1 from '../../assets/arrows.png'
 
 const Academy = () => {
   return (
@@ -15,7 +15,7 @@ const Academy = () => {
             <img src={gal5} alt="" />
             <img src={gal6} alt="" />
         </div>
-        <button className='btn dark-btn '>See more here <img src={arrows} alt="" className='arrows' /></button>
+        <button className='btn dark-btn '>See more here <img src={arrows1} alt="" className='arrows' /></button>
     </div>
   )
 }

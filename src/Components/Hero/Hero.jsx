@@ -1,6 +1,6 @@
 import React from 'react'
 import './Hero.css'
-import arrows from '../../assets/arrows.png'
+import arrows1 from '../../assets/arrows.png'
 
 const Hero = () => {
   return (
@@ -19,7 +19,7 @@ const Hero = () => {
             Through innovative and tailored solutions, we provide the support and peace of mind you need to protect what matters most.
             </p>
 
-            <button className='btn'>Explore more <img src={arrows} alt="" className='arrows' /> </button>
+            <button className='btn'>Explore more <img src={arrows1} alt="" className='arrows' /> </button>
             
         </div>
       
