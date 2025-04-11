@@ -1,3 +1,7 @@
+A modern and responsive website for Eagle Eye Investigation, a private investigation and security agency. Built with React.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
