@@ -1,4 +1,3 @@
-A modern and responsive website for Eagle Eye Investigation, a private investigation and security agency. Built with React.
 
 
 
